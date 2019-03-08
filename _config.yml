@@ -58,7 +58,7 @@ header_left: |
 header_right: |
   <ul style="list-style-type:none; margin:0; padding:0; overflow:hidden;">
     <li style="float:right;">
-      <a style="display:block; color:inherit; text-decoration:none !important;" href="https://microservices.community/">
+      <a style="display:block; color:inherit; text-decoration:none !important;" href="https://microservices.sdu.dk/">
         <img class="img-responsive" style="position:absolute; top:10px; z-index:10; right:5px; transform: rotate(25deg);" src="/2019/assets/images/microservices_community.png" alt="">
       </a>
     </li>
