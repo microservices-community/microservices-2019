@@ -46,7 +46,7 @@
           title: Speaker
       title: Domain-Specific Service Decomposition with Microservices API Patterns
       description: |
-        <a href="https://conf-micro.services/2019/keynotes.html#domain-specific-service-decomposition-with-microservices-api-patterns">
+        <a href="https://conf-micro.services/2019/keynotes/#domain-specific-service-decomposition-with-microservices-api-patterns">
         Abstract of the keynote</a>
         |
         <a href="https://microservice-api-patterns.org/">
@@ -102,7 +102,7 @@
       chairs:
         - Sabine Sachweh
       description: |
-        <a href="https://conf-micro.services/2019/keynotes.html#understandable-microservices">
+        <a href="https://conf-micro.services/2019/keynotes/#understandable-microservices">
         Abstract of the keynote</a>
       slides: /keynotes/Montesi.pdf
       location: Room <a href="/attending#map-to-reach-the-conference-room-inside-the-venue">F.211</a>
@@ -136,7 +136,7 @@
       chairs:
         - Marco Peressotti
       description: |
-        <a href="https://conf-micro.services/2019/keynotes.html#engineering-reliability">
+        <a href="https://conf-micro.services/2019/keynotes/#engineering-reliability">
         Abstract of the keynote</a>
       slides: keynotes/Llamas.pdf
       location: Room <a href="/attending#map-to-reach-the-conference-room-inside-the-venue">F.211</a>
@@ -202,7 +202,7 @@
       chairs:
         - Florian Rademacher
       description: |
-        <a href="https://conf-micro.services/2019/keynotes.html#factory-of-things-using-microservices-for-data-processing-and-iot">
+        <a href="https://conf-micro.services/2019/keynotes/#factory-of-things-using-microservices-for-data-processing-and-iot">
         Abstract of the keynote</a>
       location: Room <a href="/attending#map-to-reach-the-conference-room-inside-the-venue">F.211</a>
     - title: Coffee Break
@@ -236,7 +236,7 @@
       chairs:
         - Florian Rademacher
       description: |
-        <a href="https://conf-micro.services/2019/keynotes.html#build-fashionable-container-systems-with-microservices-clouds-and-kubernetes">
+        <a href="https://conf-micro.services/2019/keynotes/#build-fashionable-container-systems-with-microservices-clouds-and-kubernetes">
         Abstract of the keynote</a>
       location: Room <a href="/attending#map-to-reach-the-conference-room-inside-the-venue">F.211</a>
     - title: Experiences 1
