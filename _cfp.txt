@@ -1,0 +1,162 @@
+--------------------------------------------------------------------------------
+                                Call for Papers                                 
+                                Microservices'19                                
+                 2nd International Conference on Microservices                  
+                    Dortmund, Germany, February 19-21, 2019                     
+                       https://conf-micro.services/2019/                      
+--------------------------------------------------------------------------------
+
+IMPORTANT DATES
+===============
+
+Nov. 30, 2018: Submission Deadline
+Jan. 18, 2019: Notification
+Feb. 01, 2019: Camera-ready
+Feb. 19 - 21, 2019: Conference (Registration date TBA)
+
+INTERNATIONAL CONFERENCE ON MICROSERVICES
+=========================================
+
+The **International Conference on Microservices** is a forum for the
+discussion of all aspects of microservices: their design, programming, and
+operations.
+
+Microservices 2019 is part of a series of conferences, started with
+Microservices 2017, which successfully brought together many international
+practitioners and researchers interested in the software paradigm of
+microservices. During Microservices 2017 the Microservices Community was
+founded, with the aims of sharing of knowledge, fostering of collaborations,
+and organising events around microservices. In this edition, Microservices
+will be co-located and intertwined with the first international edition of the
+Meeting on Microservices, an event specifically oriented towards companies
+where invited speakers from industry report success stories, best practices,
+current challenges, and attendees participate to discussion panels on the
+adoption and evolution of microservices in production.
+
+ABOUT MICROSERVICES'19
+======================
+
+The 2019 edition of the conference (Microservices 2019) will take place from
+February 19th to 21st, 2019 at the University of Applied Sciences and Arts
+Dortmund, Germany.
+
+The theme of this edition is the interplay between **microservices** and the
+**Digital Transformation**, i.e., the process of accelerating and improving
+business activities, processes, and models through digital automation. This
+process is crucial for companies in highly-competing markets, where
+integration and flexibility of software systems becomes a critical asset to
+establish leadership. Here, microservices can play a central role. They can
+streamline integration (thanks to their focus on standards and
+interoperability) and enable more flexible solutions (by supporting dynamic
+deployments and elastic scaling).
+
+However these benefits come at a cost: an increased complexity that calls for
+a proportional improvement of techniques for software construction. This
+requires contributions from different areas, ranging from formal methods to
+software engineering and the general art of programming.
+
+TOPICS OF INTEREST
+==================
+
+Topics of interest include (but are not limited to):
+- Design and implementation of microservice architectures.
+- Empirical studies of microservices.
+- Software engineering methods for microservices.
+- Security in microservices.
+- Formal models for microservices.
+- Verification (both static and runtime) of microservice systems.
+- Programming languages and techniques for microservices.
+- Testing for microservices.
+
+See https://conf-micro.services/2019/ for full details.
+
+We solicit contributions in the form of extended abstracts with a maximum
+length of two pages. A submission should describe a talk to be given at the
+event. Talks can be based on work in progress, scientific work published or
+submitted for publication, or practical experience reports. Practical
+demonstrations of tools are also welcome. Extended abstracts of accepted
+contributions will be available electronically before the conference.
+
+Microservices 2019 will employ a lightweight reviewing process.
+
+SUBMITTING & DEADLINE
+=====================
+
+The deadline for submissions is November 30th, 2018, Anywhere on Earth.
+Authors will be notified on the acceptance of their submissions from January
+18th, 2019. Resubmissions are allowed until the submission deadline.
+Contributions are to be submitted through EasyChair using the following link:
+
+https://easychair.org/conferences/?conf=microservices2019
+
+FORMATTING
+==========
+
+Submissions must be in PDF format, printable in black and white on A4 paper,
+and interpretable by common PDF tools. All submissions must be prepared using
+the Easychair template, available for LaTeX
+(https://easychair.org/publications/easychair.zip) and MS Word
+(https://easychair.org/publications/easychair.docx).
+
+POST-PROCEEDINGS
+================
+
+Depending on the success of this initiative, we are considering the
+publication of a volume of post-proceedings, for which there will be a
+separate call for papers. In this way, the interested authors will have a
+chance to enrich their contributions according to the feedback they received
+during the event. The tentative deadline for submitting papers for the
+post-proceedings is mid-May 2019.
+
+PROGRAM COMMITTEE
+=================
+
+Farhad Arbab            Leiden University and CWI (NL)
+Luís Cruz-Filipe        University of Southern Denmark (DK)
+Pierre-Malo Deniélou    Google (US)
+Claudio Guidi           italianaSoftware (IT)
+Marcel Hahn             University of Kassel (DE)
+Philipp Heisig          University of Applied Sciences and Arts Dortmund (DE)
+Thomas Hildebrandt      University of Copenhagen (DK)
+Pooyan Jamshidi         University of South Carolina (US)
+Sung-Shik Jongmans      Open University of the Netherlands (NL)
+Michalis Kargakis       Red Hat (UK)
+Ivan Lanese             University of Bologna (IT)
+Sanja Lazarova-Molnar   Maersk Mc-Kinney Moller Institute (DK)
+Fei Li                  Siemens (AT)
+Ramón Medrano Llamas    Google (US)
+Jacopo Mauro            University of Southern Denmark (DK)
+Martin Peters           com2m GmbH (DE)
+Marco Prandini          University of Bologna (IT)
+Steve Ross-Talbot       Estafet (UK)
+Alessandro Rossini      PwC Consulting (NO)
+Larisa Safina           Innopolis University (RU)
+Gwen Salaün             Inria Grenoble, Rhône-Alpes (FR)
+Jonas Sorgalla          University of Applied Sciences and Arts Dortmund (DE)
+Balakrishna Subramoney  SunBio IT Solutions (US)
+Stefan Tilkov           innoQ Deutschland GmbH (DE)
+Olaf Zimmermann         University of Applied Sciences of Eastern Switzerland (CH)
+Albert Zündorf          University of Kassel (DE)
+
+CONTACT
+=======
+
+Please contact the organising committee or use the contact form on the website
+if you have any questions:
+
+PROGRAM CHAIRS
+==============
+Saverio Giallorenzo     University of Southern Denmark                    <saverio at imada.sdu.dk>
+Marco Peressotti        University of Southern Denmark                    <peressotti at imada.sdu.dk>
+Florian Rademacher      University of Applied Sciences and Arts Dortmund  <florian.rademacher at fh-dortmund.de>
+Sabine Sachweh          University of Applied Sciences and Arts Dortmund  <sabine.sachweh at fh-dortmund.de>
+
+PUBLICITY CHAIR
+===============
+Barbara Tvede Andersen  University of Southern Denmark                    <barbara at sdu.dk>
+Jonas Sorgalla          University of Applied Sciences and Arts Dortmund  <jonas.sorgalla at fh-dortmund.de>
+
+LOCAL CHAIRS
+============
+Philipp Heisig          University of Applied Sciences and Arts Dortmund  <philipp.heisig at fh-dortmund.de>
+Philip Wizenty          University of Applied Sciences and Arts Dortmund  <philip.wizenty at fh-dortmund.de>
