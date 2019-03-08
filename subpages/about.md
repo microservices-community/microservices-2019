@@ -22,8 +22,7 @@ In this edition, Microservices will be co-located and intertwined with the first
 <img class="img-thumbnail" style="max-width:70px;height:auto;" src="/2019/assets/images/speakers/{{ keynote.image }}">
 </div>
 <div class="col-xs-{% if day.size > 1 %}8{% else %}10{% endif %}">
-{% capture keynote_href %}/keynotes#{{ keynote.title | slugify }}{% endcapture %}
-<a href="{{ keynote_href | absolute_url }}">{{keynote.title}}</a><br>
+<a href="/2019/keynotes/#{{ keynote.title | slugify }}">{{keynote.title}}</a><br>
   <span class="text-muted">{{keynote.speaker}}</span><br>
   <span class="text-muted">{{keynote.affiliation}}</span>
 </div>  
