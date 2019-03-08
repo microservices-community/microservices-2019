@@ -1,14 +1,14 @@
 ---
 title: "Microservices 2019 Hackathon"
 layout: page
-feature_image: "/assets/images/phoenix-see2.jpg"
+feature_image: "/2019/assets/images/phoenix-see2.jpg"
 image_source: "Stadt Dortmund/Roland Gorecki"
 ---
 
 <div style="margin-top:1em;" class="text-justify">
 
 <div class="col-xs-2 mt-2">
-<img class="img-responsive" src="/assets/images/microservices_hackathon.png">
+<img class="img-responsive" src="/2019/assets/images/microservices_hackathon.png">
 </div>
 <div class="col-xs-10" markdown="1">
 Microservices 2019 will feature the **Microservices 2019 Hackathon** as a satellite event of the conference. 

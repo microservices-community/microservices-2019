@@ -2,7 +2,7 @@ The **International Conference on Microservices** is a forum for the discussion 
 
 The conference's overarching aim is to bring together industry and academia, to foster discussion on practice and research of microservices. 
 
-Microservices 2019 is part of a series of conferences started with [Microservices 2017](https://www.conf-micro.services/2017/index.html) which successfully brought together many international practitioners and researches interested in the software paradigm of microservices. During Microservices 2017 the [Microservices Community](https://microservices.sdu.dk/) was founded with the aims of sharing of knowledge, fostering of collaborations, and organising events around microservices.
+Microservices 2019 is part of a series of conferences started with [Microservices 2017](https://www.conf-micro.services/2017/index.html) which successfully brought together many international practitioners and researches interested in the software paradigm of microservices. During Microservices 2017 the [Microservices Community](https://microservices.community) was founded with the aims of sharing of knowledge, fostering of collaborations, and organising events around microservices.
 In this edition, Microservices will be co-located and intertwined with the first international edition of the **Meeting on Microservices** (the [first national edition](http://www.italianasoftware.com/mom2016_eng.html) took place in Bologna, Italy), an event specifically oriented towards companies where invited speakers from industry report success stories, best practices, current challenges, and attendees participate to discussion panels on the adoption and evolution of microservices in production.
 
 ### Keynote Speakers
@@ -19,10 +19,10 @@ In this edition, Microservices will be co-located and intertwined with the first
 <div class="col-xs-{% if day.size > 1 %}6{% else %}12{% endif %}">
 <div class="row">
 <div class="col-xs-{% if day.size > 1 %}4{% else %}2{% endif %}">
-<img class="img-thumbnail" style="max-width:70px;height:auto;" src="/assets/images/speakers/{{ keynote.image }}">
+<img class="img-thumbnail" style="max-width:70px;height:auto;" src="/2019/assets/images/speakers/{{ keynote.image }}">
 </div>
 <div class="col-xs-{% if day.size > 1 %}8{% else %}10{% endif %}">
-<a href="/keynotes#{{ keynote.title|slugify}}">{{keynote.title}}</a><br>
+<a href="/2019/keynotes#{{ keynote.title|slugify}}">{{keynote.title}}</a><br>
   <span class="text-muted">{{keynote.speaker}}</span><br>
   <span class="text-muted">{{keynote.affiliation}}</span>
 </div>  

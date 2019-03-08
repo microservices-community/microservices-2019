@@ -1,7 +1,7 @@
 ---
 title: Registration
 layout: page
-feature_image: "/assets/images/westfalenpark_s.jpg"
+feature_image: "/2019/assets/images/westfalenpark_s.jpg"
 image_source: "Stadt Dortmund/Roland Gorecki"
 ---
 

@@ -12,7 +12,7 @@ The conference venue will be at the <a href="#address">administration building</
 # Map to reach the Conference Room F.211 inside the Venue
 <div class="row">
 <div class="text-center">
-    <img src="/assets/images/sonnenstrasse_map.png" alt="">
+    <img src="/2019/assets/images/sonnenstrasse_map.png" alt="">
 </div>
 </div>
 
@@ -47,6 +47,6 @@ Room F.211
 
 <div class="row">
   <div class="center-block" style="width: 40vw;">
-    <img src="/assets/images/sonnenstrasse_21.jpg" alt="">
+    <img src="/2019/assets/images/sonnenstrasse_21.jpg" alt="">
   </div>
 </div>

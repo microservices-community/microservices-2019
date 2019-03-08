@@ -1,7 +1,7 @@
 ---
 title: Program
 layout: page
-feature_image: "/assets/images/westfalenstadion2_s.jpg"
+feature_image: "/2019/assets/images/westfalenstadion2_s.jpg"
 image_source: "Alex Simoes/Borussia Dortmund GmbH & Co. KGaA "
 ---
 
@@ -50,7 +50,7 @@ The finalised version will be published at the beginning of February.
           {% endif %}
           {% if event.slides %}
             <br>
-            <a target="_blank" style="color:white" href="/slides/{{event.slides}}"><label class="btn btn-xs btn-success">
+            <a target="_blank" style="color:white" href="/2019/slides/{{event.slides}}"><label class="btn btn-xs btn-success">
             <span class="glyphicon glyphicon-circle-arrow-down"></span> Slides</label></a> 
             <br>
           {% endif %}
@@ -84,7 +84,7 @@ The finalised version will be published at the beginning of February.
               <label class="abstract_btn btn btn-xs btn-info">
                 Abstract</label>
               {% if paper.slides %}
-              <a target="_blank" style="color:white" href="/slides/papers/{{paper.slides}}">
+              <a target="_blank" style="color:white" href="/2019/slides/papers/{{paper.slides}}">
                 <label class="btn btn-xs btn-success"> <span class="glyphicon glyphicon-circle-arrow-down"></span> Slides</label></a> 
               {% endif %}
               <div style="display:none;" class="abstract">

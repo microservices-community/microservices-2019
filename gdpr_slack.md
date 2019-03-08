@@ -1,7 +1,7 @@
 ---
 title: GDPR Information on "Microservices 2019&#58; Chat-based Information Exchange between Participants of Microservices 2019 during the Conference"
 layout: page
-feature_image: "/assets/images/stadtgarten.jpg"
+feature_image: "/2019/assets/images/stadtgarten.jpg"
 image_source: "Stadt Dortmund/Roland Gorecki"
 ---
 

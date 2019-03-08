@@ -1,7 +1,7 @@
 ---
 title: Keynotes
 layout: page
-feature_image: "/assets/images/borsigplatz.jpg"
+feature_image: "/2019/assets/images/borsigplatz.jpg"
 image_source: "Stadt Dortmund/Roland Gorecki"
 ---
 
@@ -28,7 +28,7 @@ image_source: "Stadt Dortmund/Roland Gorecki"
 <h4>Speaker's Bio</h4>
 
 <div class="text-muted text-justify">
-<img class="img-thumbnail" style="margin:8px;max-width:120px;height:auto" align="left" src="/assets/images/speakers/{{ keynote.image }}">
+<img class="img-thumbnail" style="margin:8px;max-width:120px;height:auto" align="left" src="/2019/assets/images/speakers/{{ keynote.image }}">
 {{ keynote.bio }}
 </div>
 </div>

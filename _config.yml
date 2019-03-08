@@ -47,7 +47,8 @@ encoding: utf-8 # Make sure the encoding is right
 title: "Microservices 2019" # Site name or title, also used in jekyll-seo-tag
 logo: "/2019/assets/images/microservices.svg" # Site logo, also used in jekyll-seo-tag
 description: "Academia meets Industry" # Site description and default description, also used in jekyll-seo-tag
-url: "/2019/" # Site url, also used in jekyll-seo-tag
+url: "/2019" # Site url, also used in jekyll-seo-tag
+baseurl: "/2019" # Site url, also used in jekyll-seo-tag
 email: "microservices@fh-dortmund.de"
 avatarurl: "/2019/assets/images/favicon.ico" # Uses avatars for favicons to get multiple sites, eg Gravatar, Twitter, GitHub
 header_left: |
@@ -58,7 +59,7 @@ header_right: |
   <ul style="list-style-type:none; margin:0; padding:0; overflow:hidden;">
     <li style="float:right;">
       <a style="display:block; color:inherit; text-decoration:none !important;" href="https://microservices.sdu.dk/">
-        <img class="img-responsive" style="position:absolute; top:10px; z-index:10; right:5px; transform: rotate(25deg);" src="/assets/images/microservices_community.png" alt="">
+        <img class="img-responsive" style="position:absolute; top:10px; z-index:10; right:5px; transform: rotate(25deg);" src="/2019/assets/images/microservices_community.png" alt="">
       </a>
     </li>
     <li style="float:right; margin-right:138px;">
@@ -68,7 +69,7 @@ header_right: |
   </ul>
 # 8. Site navigation
 navigation_header:
-  Home: /
+  Home: /2019/
   Attending: /2019/attending/
   Keynotes: /2019/keynotes/
   Program: /2019/program/
