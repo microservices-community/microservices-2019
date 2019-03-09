@@ -1,8 +1,6 @@
-Thank you all for a fantastic event!
+Microservices 2019 has ended, but the [community](http://microservices.community) behind it keeps growing.
 
-Microservices 2019 has ended, but a community was born. See you in the [Microservices Community](http://microservices.community).
-
-Here is a picture of the dedicated people who made it to the very end.
+Thanks to all the attendees for the fantastic event.
 
 ![Closing]({{ "/assets/images/group_picture.jpg" | absolute_url }})
 
