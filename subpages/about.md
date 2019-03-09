@@ -1,3 +1,11 @@
+Microservices 2019 has ended, but the [community](http://microservices.community) behind it keeps growing.
+
+Thanks to all the attendees for the fantastic event.
+
+![Closing]({{ "/assets/images/group_picture.jpg" | absolute_url }})
+
+---
+
 The **International Conference on Microservices** is a forum for the discussion of all aspects of microservices: their design, programming, and operations. The 2019 edition of the conference (Microservices 2019) will take place from February 19th to 21st, 2019 at the University of Applied Sciences and Arts Dortmund, Germany.
 
 The conference's overarching aim is to bring together industry and academia, to foster discussion on practice and research of microservices. 
