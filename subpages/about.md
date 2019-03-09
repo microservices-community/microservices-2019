@@ -2,7 +2,7 @@ Microservices 2019 has ended, but the [community](http://microservices.community
 
 Thanks to all the attendees for the fantastic event.
 
-![Closing]({{ "/assets/images/group_picture.jpg" | absolute_url }})
+![Closing]({{ "/assets/images/group_picture.jpg" | relative_url }})
 
 ---
 
