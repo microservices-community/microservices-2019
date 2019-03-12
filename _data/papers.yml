@@ -35,6 +35,7 @@
     - Balint Maschio
   title: A Jolie based platform for speeding-up the digitalization of system integration processes
   link: ../papers/Microservices_2019_paper_6.pdf
+  slides: day3/deployment_automation/Guidi.pdf
   abstract: In this paper we intend to show how microservices architectures approached from a linguistic point of view can dramatically reduce costs in the development and maintenance of system integration solutions. We will provide support to our thesis by showing a real and concrete scenario in a production environment where we pervasively used the programming language Jolie for implementing system integration solution. Moreover, we will show some basic features provided by a Jolie based platform called Jung which can further accelerate the development and the maintenance of the discussed solutions. 
 
 - authors:
