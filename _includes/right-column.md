@@ -69,6 +69,14 @@
 </ul>
 </div>
 
+<style>
+ .vcenter { 
+  display: inline-block;
+  vertical-align: middle;
+  float: none;
+}
+</style>
+
 <div class="panel panel-primary">
 <div class="panel-heading">
 <strong>Sponsors & Supporters</strong>
@@ -77,7 +85,7 @@
 {% for supporter in site.data.supporters %}
 <li class="list-group-item">
   <div class="row">
-  <div class="col-sm-7 col-md-9"><a href="{{ supporter.link }}"><img class="img-responsive center-block" src="{{ supporter.logo }}" alt="{{supporter.name}}"></a></div><div class="col-sm-4 col-md-3 text-center text-muted">{% if supporter.tier %}{{supporter.tier | capitalize }} {% endif%}{{supporter.type}}</div>
+  <div class="col-sm-7 col-md-9 vcenter"><a href="{{ supporter.link }}"><img class="img-responsive center-block" src="{{ supporter.logo }}" alt="{{supporter.name}}"></a></div><div class="col-sm-4 col-md-3 text-center text-muted vcenter">{% if supporter.tier %}{{supporter.tier | capitalize }} {% endif%}{{supporter.type}}</div>
   </div>
 </li>
 {% endfor %}
