@@ -58,8 +58,8 @@ header_left: |
 header_right: |
   <ul style="list-style-type:none; margin:0; padding:0; overflow:hidden;">
     <li style="float:right;">
-      <a style="display:block; color:inherit; text-decoration:none !important;" href="https://microservices.community/">
-        <img class="img-responsive" style="position:absolute; top:10px; z-index:10; right:5px; transform: rotate(25deg);" src="/2019/assets/images/microservices_community.png" alt="">
+      <a style="display:block; color:inherit; text-decoration:none !important;" href="https://microservices.community/e/microservices2019">
+        <img class="img-responsive" style="position:absolute; top:10px; z-index:10; right:5px; transform: rotate(25deg);" src="https://www.microservices.community/assets/images/badges/1-black.png" alt="Microservices Community Collaboration Badge">
       </a>
     </li>
     <li style="float:right; margin-right:138px;">
