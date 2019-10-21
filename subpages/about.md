@@ -16,14 +16,12 @@ In this edition, Microservices will be co-located and intertwined with the first
 ### Keynote Speakers
 
 
-{% assign second_day = site.data.keynotes | where:"day",2 %}
-{% assign second_third = site.data.keynotes | where:"day",3 %}
+{% assign keynotes_by_day = site.data.keynotes | group_by: "day" %}
 
-{% for i in (1..3) %}
+{% for day in keynotes_by_day %}
 <div style="margin-left:0em;" class="row">
 <p><h4>{% cycle 'Design', 'Develop', 'Deploy' %}</h4></p>
-{% assign day = site.data.keynotes | where:"day",i %}
-{% for keynote in day %}
+{% for keynote in day.items %}
 <div class="col-xs-{% if day.size > 1 %}6{% else %}12{% endif %}">
 <div class="row">
 <div class="col-xs-{% if day.size > 1 %}4{% else %}2{% endif %}">
