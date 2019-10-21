@@ -1,7 +1,7 @@
 ---
 title: "Microservices 2019 Slack channel"
 layout: page
-feature_image: "/2019/assets/images/stadtgarten.jpg"
+feature_image: "stadtgarten.jpg"
 image_source: "Stadt Dortmund/Roland Gorecki"
 ---
 

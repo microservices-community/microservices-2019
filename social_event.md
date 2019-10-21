@@ -1,7 +1,7 @@
 ---
 title: Social Events
 layout: page
-feature_image: "/2019/assets/images/sonnenstrasse_19.jpg"
+feature_image: "sonnenstrasse_19.jpg"
 image_source: "Fachhochschule Dortmund"
 ---
 
@@ -9,7 +9,7 @@ We are organising two social events in the evening of the second conference day 
 
 ## Dortmund City Tour
 
-<img width="50%" class="pull-right col-xs-5 img-responsive" src="/2019/assets/images/dortmund_by_night.jpg" >
+<img width="50%" class="pull-right col-xs-5 img-responsive" src="{{ '/assets/images/dortmund_by_night.jpg' | relative_url }}" >
 During the guided tour participants will learn about the *not-so-digital* history of Dortmund and its transformation towards a modern city in the heart of the Ruhr area. The city tour will also include samples of two of Dortmund's most delicious beer types.
 
 The city tour, at a glance:

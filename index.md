@@ -1,9 +1,8 @@
 ---
 layout: home
 title: Microservices 2019
-feature_image: "/2019/assets/images/phoenix-see3.jpg"
+feature_image: "phoenix-see3.jpg"
 image_source: "Stadt Dortmund/Roland Gorecki"
-excerpt: "The Microservices conference is a forum for the discussion of all aspects of designing and programming microservice architectures. Both theoretical and experimental contributions are welcome, on topics ranging from formal frameworks to experience reports."
 ---
 
 <ul class="nav nav-tabs nav-justified">

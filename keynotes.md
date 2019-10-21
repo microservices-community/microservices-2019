@@ -1,7 +1,7 @@
 ---
 title: Keynotes
 layout: page
-feature_image: "/2019/assets/images/borsigplatz.jpg"
+feature_image: "borsigplatz.jpg"
 image_source: "Stadt Dortmund/Roland Gorecki"
 ---
 

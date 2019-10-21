@@ -1,7 +1,7 @@
 ---
 title: Committees
 layout: page
-feature_image: "/2019/assets/images/phoenix-see.jpg"
+feature_image: "phoenix-see.jpg"
 image_source: "Stadt Dortmund/Roland Gorecki"
 ---
 

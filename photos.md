@@ -1,7 +1,7 @@
 ---
 title: Microservices 2019 Photos
 layout: page
-feature_image: "/2019/assets/images/group_picture.jpg"
+feature_image: "group_picture.jpg"
 image_source: "Microservices Community"
 ---
 

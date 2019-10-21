@@ -1,7 +1,7 @@
 ---
 title: Program
 layout: page
-feature_image: "/2019/assets/images/westfalenstadion2_s.jpg"
+feature_image: "westfalenstadion2_s.jpg"
 image_source: "Alex Simoes/Borussia Dortmund GmbH & Co. KGaA "
 ---
 

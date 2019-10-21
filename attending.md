@@ -1,7 +1,7 @@
 ---
 title: Attending
 layout: page
-feature_image: "/2019/assets/images/westfalenpark3.jpg"
+feature_image: "westfalenpark3.jpg"
 image_source: "Stadt Dortmund/Roland Gorecki"
 ---
 
