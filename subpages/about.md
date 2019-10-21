@@ -46,5 +46,5 @@ The general theme of Microservices 2019 is the interplay between **microservices
 
 However, these benefits come at a cost: the increased complexity calls for a proportional improvement of techniques for software construction. This requires contributions from different areas, ranging from formal methods to software engineering and the general art of programming.
 
-Microservices welcomes both theoretical and experimental submissions on topics ranging from formal frameworks to industrial experience reports and demonstrations. Presentations will be selected based on abstract submissions of maximum two pages. See the call for papers for details.
+Microservices welcomes both theoretical and experimental submissions on topics ranging from formal frameworks to industrial experience reports and demonstrations. Presentations will be selected based on abstract submissions of maximum two pages. See the <a class="link-to-tab" href="#call-for-papers">call for papers</a> for details.
 </div>
