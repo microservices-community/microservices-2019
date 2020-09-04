@@ -26,7 +26,8 @@ navigation_header:
   Committees:        /committees/
 # Registration:      /registration/
 # Sponsoring:        /sponsors/
-# Contact:           /contact/  
+# Contact:           /contact/
+  CoC:               "https://www.microservices.community/events/coc/"
 
 # Exclude from build -----------------------------------------------------------
 exclude:
