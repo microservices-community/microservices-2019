@@ -8,7 +8,7 @@ header:
 email: "microservices@fh-dortmund.de"
 description: "Academia meets Industry"
 timezone: Europe/Rome
-# twitter_feed: c_microservices 
+# twitter_feed: c_microservices
 # legal_notice_url: /legal-notice
 community_badge:
   asset: "1-black.png"
@@ -40,7 +40,7 @@ exclude:
 - submission.md
 
 #------------------------------------------------------------------------------
-logo: "/assets/images/microservices.svg"
+logo: "/assets/images/microservices.png"
 url: "https://conf-micro.services/"
 avatarurl: "/assets/images/favicon.ico"
 
